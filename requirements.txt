@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+openpyxl
+requests
+beautifulsoup4
+lxml
+mcp<2
+tabulate
